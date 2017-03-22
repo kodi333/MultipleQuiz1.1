@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultipleQuiz</string>
+    <string name="easy_label">Easy difficulty</string>
+    <string name="medium_label">Medium difficulty</string>
+    <string name="hard_label">Hard difficulty</string>
+    <string name="screenTitle">Choose the level:</string>
+</resources>
